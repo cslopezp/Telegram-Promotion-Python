@@ -53,15 +53,21 @@ ConfigFile for managing multiples TELEGRAM APIS --> connections.csv
 
 filestructure below....
 
-api_id,api_hash,phone
-1128853,722297896915f0681e6b8900xxxxx,+502nnnnnnnn
-1027049,5bed8d62c04435c288e61d21xxxxx,+502nnnnnnnn
-1083206,ade8286b2a390ee82474df28xxxxx,+502nnnnnnnn
 
+api_id,api_hash,phone
+
+ 1128853,722297896915f0681e6b8900xxxxx,+502nnnnnnnn
+
+ 1027049,5bed8d62c04435c288e61d21xxxxx,+502nnnnnnnn
+
+ 1083206,ade8286b2a390ee82474df28xxxxx,+502nnnnnnnn
 
 configfile for managing adding members process --> configmembersadding.txt
 
 below ...
+
+
 search_by,blockmember,secondblock,startrange,endrange
+
 2,45,150,60,61
 
